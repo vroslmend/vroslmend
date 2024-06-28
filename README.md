@@ -15,7 +15,7 @@
 - 🌱 Languages and Tools: 
 
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,nodejs,npm,mysql,vscode,git,figma,firebase&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,npm,mysql,java,vscode,git,figma,firebase&perline=6)](https://skillicons.dev)
 
 
 
