@@ -24,7 +24,7 @@ Developer in Lahore building things for the web, from multiplayer games to AI ap
 - **[Imaginify](https://imaginify-six-sigma.vercel.app)** — AI image editor with Stripe payments. _Next.js · Cloudinary · Stripe_
 - **[Karting Analysis](https://karting-dashboard.vercel.app)** — lap-time analysis for karting tracks. _Python · Pandas · NumPy_
 
-→ the rest live at **[ammarhassan.dev](https://ammarhassan.dev)**
+→ the rest at **[ammarhassan.dev](https://ammarhassan.dev)**
 
 ## toolbox
 
