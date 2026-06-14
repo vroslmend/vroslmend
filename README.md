@@ -19,10 +19,10 @@ Developer in Lahore building things for the web, from multiplayer games to AI ap
 
 ## selected work
 
-- **[CUI Central](https://cui-central.vercel.app)** — campus platform with a Gemini chatbot. _Next.js · Socket.IO · MongoDB_
-- **[Check!](https://check-the-game.vercel.app)** — online multiplayer card game. _Next.js · Node · Socket.IO_
-- **[Imaginify](https://imaginify-six-sigma.vercel.app)** — AI image editor with Stripe payments. _Next.js · Cloudinary · Stripe_
-- **[Karting Analysis](https://karting-dashboard.vercel.app)** — lap-time analysis for karting tracks. _Python · Pandas · NumPy_
+- **[CUI Central](https://cui-central.vercel.app)** - campus platform with a Gemini chatbot. _Next.js · Socket.IO · MongoDB_
+- **[Check!](https://check-the-game.vercel.app)** - online multiplayer card game. _Next.js · Node · Socket.IO_
+- **[Imaginify](https://imaginify-six-sigma.vercel.app)** - AI image editor with Stripe payments. _Next.js · Cloudinary · Stripe_
+- **[Karting Analysis](https://karting-dashboard.vercel.app)** - lap-time analysis for karting tracks. _Python · Pandas · NumPy_
 
 → the rest at **[ammarhassan.dev](https://ammarhassan.dev)**
 
