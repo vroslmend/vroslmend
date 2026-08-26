@@ -20,7 +20,7 @@ Developer in Lahore building things for the web, from multiplayer games to AI ap
 ## selected work
 
 - **[CUI Central](https://cui-central.vercel.app)** - campus platform with a Gemini chatbot. _Next.js · Socket.IO · MongoDB_
-- **[Check!](https://check-the-game.vercel.app)** - online multiplayer card game. _Next.js · Node · Socket.IO_
+- **[Check!](https://check-the-game.vercel.app)** - online multiplayer card game. _Next.js · Node · Socket.IO · XState_
 - **[Imaginify](https://github.com/vroslmend/next-ai-saas-app)** - AI image editor with Stripe payments. _Next.js · Cloudinary · Stripe_
 - **[Karting Analysis](https://karting-dashboard.vercel.app)** - lap-time analysis for karting tracks. _Python · Pandas · NumPy_
 - **[Cloud Visitor Counter](https://github.com/vroslmend/cloud-visitor-counter)** - serverless backend powering my site's live stats. _AWS Lambda · DynamoDB · Terraform · GitHub Actions_
@@ -29,7 +29,7 @@ Developer in Lahore building things for the web, from multiplayer games to AI ap
 
 ## toolbox
 
-`TypeScript` `React / Next.js` `Node.js` `Python` `Pandas / NumPy` `MongoDB` `SQL` `AWS` `Terraform` `Gemini API` `Tailwind` `Git / Linux`
+`TypeScript` `React / Next.js` `Node.js` `XState` `Python` `Pandas / NumPy` `RAG / Vector Search` `MongoDB` `SQL` `AWS` `Terraform` `Gemini API` `Tailwind` `Git / Linux`
 
 ## stats
 
