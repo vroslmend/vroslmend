@@ -23,7 +23,7 @@ Developer in Lahore building things for the web, from multiplayer games to AI ap
 - **[CUI Central](https://cui-central.vercel.app)** - campus platform with real-time tools and a Gemini assistant. _Next.js · Socket.IO · MongoDB_
 - **[Chat Flashback](https://github.com/vroslmend/chat-flashback)** - private, local analytics for Messenger exports. _Python · Matplotlib · VADER_
 - **[Cloud Visitor Counter](https://github.com/vroslmend/cloud-visitor-counter)** - serverless backend powering my site's live stats. _AWS · Terraform · GitHub Actions_
-- **[Karting Analysis](https://karting-dashboard.vercel.app)** - scraping and lap-time analysis for karting sessions. _Python · Pandas · NumPy_
+- **[Karting Analysis](https://github.com/vroslmend/sportzilla-laptime-analysis)** - Python analysis behind a collaborative live karting dashboard. _Python · Pandas · NumPy_
 - **[Imaginify](https://github.com/vroslmend/next-ai-saas-app)** - AI image editor with credits and Stripe payments. _Next.js · Cloudinary · Stripe_
 
 → the rest at **[ammarhassan.dev](https://ammarhassan.dev)**
