@@ -13,23 +13,24 @@
 
 ---
 
-Developer in Lahore building things for the web, from multiplayer games to AI apps.
+i build things for the web, from multiplayer games and campus tools to data projects and AI agents.
 
-**currently** going deeper into Python and AI agents.
+**currently** going deeper into Python and AI engineering by building **[kitty](https://github.com/vroslmend/kitty-agent)**, an agent for my portfolio.
 
 ## selected work
 
-- **[CUI Central](https://cui-central.vercel.app)** - campus platform with a Gemini chatbot. _Next.js · Socket.IO · MongoDB_
-- **[Check!](https://check-the-game.vercel.app)** - online multiplayer card game. _Next.js · Node · Socket.IO · XState_
-- **[Imaginify](https://github.com/vroslmend/next-ai-saas-app)** - AI image editor with Stripe payments. _Next.js · Cloudinary · Stripe_
-- **[Karting Analysis](https://karting-dashboard.vercel.app)** - lap-time analysis for karting tracks. _Python · Pandas · NumPy_
-- **[Cloud Visitor Counter](https://github.com/vroslmend/cloud-visitor-counter)** - serverless backend powering my site's live stats. _AWS Lambda · DynamoDB · Terraform · GitHub Actions_
+- **[Check!](https://check-the-game.vercel.app)** - browser card game for two to six players, with a custom Socket.IO server handling rooms, turns and reconnects. _Next.js · Node.js · Socket.IO · XState_
+- **[CUI Central](https://cui-central.vercel.app)** - campus platform for room bookings, cafeteria orders and faculty availability, with a Gemini assistant over a custom knowledge base. _Next.js · Node.js · Socket.IO · MongoDB Vector Search · Gemini_
+- **[Chat Flashback](https://github.com/vroslmend/chat-flashback)** - turns Messenger exports into private, local recaps, charts and a browsable chat reader. _Python · Matplotlib · VADER_
+- **[Cloud Visitor Counter](https://github.com/vroslmend/cloud-visitor-counter)** - serverless backend on AWS powering my site's live counters, provisioned with Terraform and deployed through keyless GitHub Actions. _Python · Lambda · DynamoDB · Terraform_
+- **[Karting Analysis](https://karting-dashboard.vercel.app)** - scrapes karting results to compare fastest laps, consistency and performance over time. _Python · Pandas · NumPy_
+- **[Imaginify](https://github.com/vroslmend/next-ai-saas-app)** - image editor with AI-powered generative fill, restoration and background removal, plus a credits system and Stripe payments. _Next.js · Cloudinary AI · Stripe_
 
 → the rest at **[ammarhassan.dev](https://ammarhassan.dev)**
 
 ## toolbox
 
-`TypeScript` `React / Next.js` `Node.js` `XState` `Python` `Pandas / NumPy` `RAG / Vector Search` `MongoDB` `SQL` `AWS` `Terraform` `Gemini API` `Tailwind` `Git / Linux`
+`TypeScript` `React` `Next.js` `Node.js` `Socket.IO` `XState` `Python` `FastAPI` `LangGraph` `Pandas` `NumPy` `RAG` `Vector Search` `MongoDB` `PostgreSQL` `SQL` `AWS` `Terraform` `GitHub Actions` `Tailwind CSS`
 
 ## stats
 
@@ -43,7 +44,7 @@ Developer in Lahore building things for the web, from multiplayer games to AI ap
 <details>
 <summary><b>off the clock</b></summary>
 
-Probably playing video games with friends. Otherwise a lot of padel I've somehow never gotten good at, some cycling, and pretending the next new coffee place will be worth it.
+probably playing video games with friends. otherwise a lot of padel I've somehow never gotten good at, some cycling, and pretending the next new coffee place will be worth it.
 
 </details>
 
