@@ -32,15 +32,6 @@ Developer in Lahore building things for the web, from multiplayer games to AI ap
 
 `TypeScript` `React` `Next.js` `Node.js` `Socket.IO` `XState` `Python` `FastAPI` `LangGraph` `Pandas` `MongoDB` `PostgreSQL` `AWS` `Terraform`
 
-## stats
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vroslmend&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=00000000&title_color=eaeaea&text_color=a1a1a1&icon_color=686868">
-  <img src="https://github-readme-stats.vercel.app/api?username=vroslmend&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=00000000&title_color=1a1a1a&text_color=4a4a4a&icon_color=8a8a8a" alt="ammar's github stats" width="400">
-</picture>
-</div>
-
 <details>
 <summary><b>off the clock</b></summary>
 
